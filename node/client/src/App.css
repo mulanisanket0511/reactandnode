@@ -1,0 +1,41 @@
+.MuiInputLabel-outlined.MuiInputLabel-shrink{
+  transform: translate(14px,-6px) scale(0.75) !important;
+ 
+
+}
+.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-fullWidth{
+  background-color:rgb(26,117,214) !important;
+color:white !important;
+margin-block: 25px !important;
+
+}
+.MuiTypography-root.MuiTypography-body2.MuiTypography-alignCenter{
+  margin-top:30px !important;
+}
+.MuiContainer-root.MuiContainer-maxWidthXs{
+  max-width: 600px !important;
+  margin-left:560px !important;
+}
+.MuiAvatar-colorDefault{
+  background-color: rgb(250, 16, 63) !important;
+}
+.MuiTypography-h5{
+  line-height: 2.334 !important;
+}
+.MuiAvatar-circular.MuiAvatar-colorDefault.MuiAvatar-root{
+  margin-left: 245px !important;
+  margin-top: 25px !important;
+}
+.MuiTypography-root.MuiTypography-h5{
+  margin-left:230px !important;
+}
+.MuiBox-root-10 {
+  margin-top: -10px !important;
+}
+.MuiBox-root.MuiBox-root-10{
+  margin-inline: 22px !important;
+  margin-block: 10px !important;
+}
+.MuiButton-contained.MuiButton-fullWidth.MuiButton-root.MuiButtonBase-root{
+  margin-top: 40px !important;
+}
